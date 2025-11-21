@@ -1,4 +1,4 @@
-# Validation-of-Chronic-Inflammation-Biomarkers-via-Integrated-ML-Bioinformatics-Paper
+# Validation-of-Chronic-Inflammation-Biomarkers-via-Integrated-ML-Bioinformatics
 Documenting my progress towards validating and recreating a [paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12095375/#s1) titled 'Identification and validation of shared biomarkers and drug repurposing in psoriasis and Crohn’s disease: integrating bioinformatics, machine learning, and experimental approaches'.
 
 ## Research Problem
